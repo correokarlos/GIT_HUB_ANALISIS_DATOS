@@ -24,7 +24,8 @@ README.md           # Descripción general del proyecto
 Instalación y Requisitos
 
 
-Este proyecto fue desarrollado en Visusla Studio Code con el motor Python
+Este proyecto fue desarrollado en Visusla Studio Code con el motor Python.
+Para ejecutar desde VSC posicionese en al carpeta dat/ y ejecute: python app.py
 
 
 
